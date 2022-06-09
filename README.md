@@ -24,3 +24,8 @@
 2. 이러한 환경들은 각기 독립적으로 존재하므로 원하는 환경을 모듈식으로 관리 가능하다. (파이썬 서버, 자바 서버, 데이터베이스 서버를 막 추가해서 살 필요가 없다.
 3. 모든 독립적 운용을 docker 하나로 가능하다.
 
+# API
+
+API는 애플리케이션 소프트웨어를 구축하고 통합하기 위한 정의 및 프로토콜 세트인 애플리케이션 프로그래밍 인터페이스(Application Programming Interface)를 뜻합니다.
+
+ex) API for the tracer is torch.jit.trace()
