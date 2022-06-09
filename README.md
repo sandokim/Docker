@@ -29,3 +29,9 @@
 API는 애플리케이션 소프트웨어를 구축하고 통합하기 위한 정의 및 프로토콜 세트인 애플리케이션 프로그래밍 인터페이스(Application Programming Interface)를 뜻합니다.
 
 ex) API for the tracer is torch.jit.trace() function
+
+# TorchScript models
+
+* TorchScript models can be saved a model archive and loaded to run in PyTorch's just-in-tim (JIT) complier instead of the CPython interpreter.
+* C++ Tensor APIs support bindings to a wide range of languages and deployment environments.
+* The same TorchScript models can also be loaded in the PyTorch Mobile runtime.
